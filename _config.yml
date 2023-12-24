@@ -1,6 +1,6 @@
 ## Site Meta ##
 # The title of the website.
-title: "Street Art Collector"
+title: "Street Art Collektor"
 # The description of the website
 description: "A Jekyll theme for photographers and photo bloggers."
 # Keywords/tags for you site.
@@ -10,11 +10,11 @@ copyright: "2023 - ."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "SACk"
+header: "SACk!"
 # 2nd heading/sub heading of the website.
-subheader: "Street Art Collector"
+subheader: "Street Art Collektor"
 # A description/bio of the website.
-bio: "Captured."
+bio: "Captured around."
 social:
   # Your Twitter username.
   twitter_username: ""
